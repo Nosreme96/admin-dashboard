@@ -1,1 +1,1 @@
-Using mainly css grid to setup an admin dashboard page with headear, nav bar, and sidebar.    
+Using mainly css grid to setup an admin dashboard page with headear, nav bar, and sidebar.  Browser only.  
